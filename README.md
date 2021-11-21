@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Yong Sun Choi(Y.S Choi) 👋
+
+I'm live in Seoul. And software develper from Korea.
+
+I love programming
+
 
 <!--
 **dragonlol88/dragonlol88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
