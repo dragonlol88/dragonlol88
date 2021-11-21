@@ -1,6 +1,6 @@
 ### Hello, I'm Yong Sun Choi(Y.S Choi) 👋
 
-I'm live in Seoul. And software develper from Korea.
+I have lived in Seoul. And software developer from Korea.
 
 I love programming
 
