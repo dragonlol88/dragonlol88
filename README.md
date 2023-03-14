@@ -22,12 +22,6 @@ I love programming
   <img src="https://img.shields.io/badge/GitHub Actions-000000?style=flat&logo=GitHub&logoColor=white" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS RDS-F5B041?style=flat&logo=AmazonAWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS EC2-D5F5E3?style=flat&logo=AmazonAWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS Lambda-7D3C98?style=flat&logo=AmazonAWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS API Gateway-E6B0AA?style=flat&logo=AmazonAWS&logoColor=white" />
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
